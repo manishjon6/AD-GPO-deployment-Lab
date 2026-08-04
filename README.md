@@ -20,7 +20,7 @@ Simulate a small enterprise network by setting up a Windows Server domain contro
 
 ### ✅ Phase 2: Domain Controller Configuration
 - Promoted Server to DC using AD DS.
-- Created `shashank.local` domain.
+- Created `Manish` domain.
 ![DC Setup](docs/AD_DHCP-setup.JPG)
 
 ### ✅ Phase 3–6: Domain Join, User/OU Setup, GPOs
@@ -58,6 +58,6 @@ Refer to the `/docs` folder for all screenshots and configuration steps.
 
 ---
 
-👤 Author: Shashank Awadhoot  
-📧 Email: shashankawadhoot8967@gmail.com   
-🔗 LinkedIn: https://www.linkedin.com/in/shashank-awdhoot-139b06225/
+👤 Author: Manish Bhatnagar  
+📧 Email: manishjon1065@gmail.com   
+🔗 LinkedIn: https://www.linkedin.com/in/manish-b-734537168/
