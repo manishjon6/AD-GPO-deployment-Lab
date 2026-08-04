@@ -16,7 +16,7 @@ Simulate a small enterprise network by setting up a Windows Server domain contro
 
 ### ✅ Phase 1: Environment Setup
 
-* Installed VirtualBox, created 1 DC01 VM + 1 pc01 VMs.
+* Installed VirtualBox, created 1 DC VM + 1 pc01 VMs.
 ![DC Setup](docs/Phase1-EnvironmentSetup.jpeg)
 * Configured networking and static IPs.
 
