@@ -17,7 +17,7 @@ Simulate a small enterprise network by setting up a Windows Server domain contro
 ### ✅ Phase 1: Environment Setup
 
 * Installed VirtualBox, created 1 DC01 VM + 1 pc01 VMs.
-!\[DC Setup](docs/Phase1-EnvironmentSetup.jpeg)
+![DC Setup](docs/Phase1-EnvironmentSetup.jpeg)
 * Configured networking and static IPs.
 
 
@@ -26,33 +26,34 @@ Simulate a small enterprise network by setting up a Windows Server domain contro
 
 * Promoted Server to DC using AD DS.
 * Created `manish` domain.
-!\[DC Setup](docs/AD\_DHCP-setup.JPG)
+![DC Setup](docs/AD\_DHCP-setup.JPG)
 
 ### ✅ Phase 3–6: Domain Join, User/OU Setup, GPOs
 
 * Joined clients to domain.
-!\[DC Setup](docs/client-domain\_join.JPG)
+![DC Setup](docs/client-domain\_join.JPG)
 * Created OUs (HR, IT, ADMIN), users, and security groups.
-!\[DC Setup](docs/User\_creation.JPG)
+![DC Setup](docs/User\_creation.JPG)
 * Implemented GPOs: password policy, login restrictions, wallpaper setting, etc.
-!\[DC Setup](docs/GPO-settings.JPG)
+![DC Setup](docs/GPO-settings.JPG)
 
 ### ✅ Phase 7: Validation \& Documentation
 
 * Verified GPOs using `gpresult` OR `rsop.msc`.
-!\[DC Setup](docs/rsop-output.jpeg)
+![DC Setup](docs/rsop-output.jpeg)
 * Attached screenshots and documented structure.
 
 ## 📷 Screenshots
 
 * \[x] Domain Controller Setup
-!\[DC Setup](docs/dc-setup.JPG)
+![DC Setup](docs/dc-setup.JPG)
 * \[x] OU/User/Group Creation
 
-!\[DC Setup](docs/OU-structure.JPG)
+![DC Setup](docs/OU-structure.JPG)
 
 * \[x] GPO Implemented for client machines
-!\[DC Setup](docs/desktopwallpaper-GPO\_alicehr.JPG)
+  
+![DC Setup](docs/desktopwallpaper-GPO\_alicehr.JPG)
 
 ## ✅ Outcome
 
